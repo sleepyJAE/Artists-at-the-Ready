@@ -5,6 +5,18 @@
   "author": "yuriusuwi",
   "cover": "https://i.imgur.com/O3Xnw8u.png",
   "chapters": {
+    "1": {
+      "title": "Character References",
+      "volume": "",
+      "last_updated": "1732043692",
+      "groups": {
+        "": [
+          "https://64.media.tumblr.com/c2224a16e750ca0a6df9858e17ee5737/7cf16f4c72da196d-f0/s2048x3072/306257de79c15a798ea232722db40b5610348832.pnj",
+          "https://64.media.tumblr.com/f32e3815749cfe6846ed044f67c7b9ba/7cf16f4c72da196d-46/s2048x3072/5f40a943731d742b26fcac1092f1f8a664341131.pnj",
+          "https://64.media.tumblr.com/2b1c0419b3599c963d9af269abf2cd39/7cf16f4c72da196d-c6/s2048x3072/8c9f1d7ba82ddcb3d791cc8222606c8eec379a8e.pnj"
+        ]
+      }
+    },
     "2": {
       "title": "Audition",
       "volume": "",
